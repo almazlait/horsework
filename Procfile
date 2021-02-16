@@ -1,0 +1,1 @@
+worker: python send2.py
