@@ -50,208 +50,208 @@ def stop_work(message):
 def start_work(message):
  while True:
   if message.text.lower() == 'сергей':
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+     
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
 
   elif message.text.lower() == 'света':
 
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
 
   elif message.text.lower() == 'николай':
 
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
   elif message.text.lower() == 'юрий':
 
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Николай \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Юрий \n День')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Сергей \n Ночь')
       time.sleep(43200)
-      bot.send_message(message.chat.id, d)
+      
       bot.send_message(message.chat.id, 'Сейчас дежурит Светлана \n День')
       time.sleep(43200)
   elif message.text == 'stopbot':
-   bot.send_message(message.chat.id, d)
+   
    bot.send_message(message.chat.id, 'Остановка действия программы')
   break
 
